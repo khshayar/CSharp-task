@@ -1,0 +1,14 @@
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/bin/Debug/net8.0/Homework
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/bin/Debug/net8.0/Homework.deps.json
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/bin/Debug/net8.0/Homework.runtimeconfig.json
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/bin/Debug/net8.0/Homework.dll
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/bin/Debug/net8.0/Homework.pdb
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/obj/Debug/net8.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/obj/Debug/net8.0/Homework.AssemblyInfoInputs.cache
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/obj/Debug/net8.0/Homework.AssemblyInfo.cs
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/obj/Debug/net8.0/Homework.csproj.CoreCompileInputs.cache
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/obj/Debug/net8.0/Homework.dll
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/obj/Debug/net8.0/refint/Homework.dll
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/obj/Debug/net8.0/Homework.pdb
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/obj/Debug/net8.0/Homework.genruntimeconfig.cache
+/home/khashayar/Documents/code/for all practise/Ag7/Homework/Homework/obj/Debug/net8.0/ref/Homework.dll
